@@ -1,7 +1,3 @@
-# Livro de receitas :man_cook:
+# Determinação da probabilidade de sobreviventes no Titanic
 
-oi bem vindo ao livro de receitas
-
--  Strognofe
-
-- Pavê
+Exercicio bootcamp Carrefour
